@@ -33,7 +33,7 @@ Vite + React + JavaScript 기반 프론트엔드 프로젝트입니다.
 ---
 
 ### Backend
-[syncode-webide-backend](https://github.com/goorm-syncode/syncode-webide-backend)
+[web-ide-backend](https://github.com/goorm-syncode/web-ide-backend)
 **SynCode WebIDE Backend**  
 Spring Boot 기반 백엔드 서버입니다.  
 현재는 인증(Auth) 및 사용자(User) 도메인을 중심으로 구현 중입니다.
